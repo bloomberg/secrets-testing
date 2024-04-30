@@ -1,0 +1,1 @@
+connectionString="Data Source=foobar123.bloomberg.com,29999;Initial Catalog=Test;User ID=test_user123;Password=nosuchuser;Application Name=MyService;"
