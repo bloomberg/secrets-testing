@@ -1,2 +1,4 @@
 uid=foobar
 password=8o742fg5ruy23fcghro
+
+#this was triggered, will a commit be blocked, adding this benign text
