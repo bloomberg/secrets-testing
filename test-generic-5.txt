@@ -1,4 +1,5 @@
 username=alice
 password=tfmn45hjt8790563ntg
+host=myadserver.mydomain.net
 
 why isn't this being flagged???
