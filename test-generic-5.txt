@@ -1,4 +1,4 @@
-uid=foobar
-password=8o742fg5ruy23fcghro
+username=alice
+password=tfmn45hjt8790563ntg
 
 why isn't this being flagged???
