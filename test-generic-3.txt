@@ -1,0 +1,59 @@
+
+
+
+                password: password_entry.text
+
+
+        password = subrosa.get_secret("prac-secrets/perf-regress/splunk_alphasystem_secret").decode("utf-8"),
+
+
+        password = parameter_dict.get("password", True)
+
+                            if result == 'pass':
+
+
+    String username = m_getLoginStatement->getColumnText(0);
+    String password = m_usingCertManager ? "" : m_getLoginStatement->getColumnBlobAsString(1);
+
+
+        password = iter->second.password;
+
+
+    let password = this.$.passwordInput.value;
+
+password:= {{ password }}
+password:= {{password}}
+
+            "password": f"bpi:static:{zk_config_dict.get('EventRegistrationDetails').get('ProducerStaticIdentityName')}:{os.environ.get(zk_config_dict.get('EventRegistrationDetails').get('EnvVarNameProducerStaticIdentityToken'))}"
+
+///         let password = console.ask("Enter password:")
+
+
+
+            var pass = 0
+
+       pass = 0
+
+            var pass = ""
+
+
+    #password = get_subrosa_secret("bdip/infa/"+user)
+
+    myPassword = myClass.myFunction("param 1")
+
+                    var pass = ConfigHelper.ExpandConfigString(ConfigurationManager.ConnectionStrings["TsGatewayDB"].ConnectionString);
+
+                        serialized = Regex.Replace(serialized, "password=\".*?\"", "password=\"REDACTED\"");
+
+    "airflow-password": "subrosa:csi/platform/airflow2-password"
+
+    password = str(subrosa.get_secret(f'{CONFIGS.SUBROSA_NM}/{CONFIGS.SUBROSA_DB_BUCKET}/dpassword'),encoding='utf-8')
+
+
+        password = config.DATABASE_CONFIG['password']
+
+
+
+
+
+
